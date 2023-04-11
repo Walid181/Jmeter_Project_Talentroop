@@ -1,0 +1,601 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1680425881988,15593,Login,200,OK,Thread Group 1-171,text,true,,816,511,300,300,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15593,0,1130
+1680425881480,15593,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-171,,true,,816,511,300,300,null,15593,509,1130
+1680425881975,15645,Login,200,OK,Thread Group 1-102,text,true,,821,507,299,299,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15644,0,1126
+1680425882000,15620,Login,200,OK,Thread Group 1-35,text,true,,813,509,299,299,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15620,0,1103
+1680425881276,15645,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-102,,true,,821,507,299,299,null,15644,699,1126
+1680425881066,15620,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-35,,true,,813,509,299,299,null,15620,934,1103
+1680425881986,15637,Login,200,OK,Thread Group 1-8,text,true,,812,508,297,297,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15637,0,1117
+1680425882003,15621,Login,200,OK,Thread Group 1-91,text,true,,817,505,297,297,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15621,0,1099
+1680425881235,15621,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-91,,true,,817,505,297,297,null,15621,768,1099
+1680425880988,15637,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,812,508,297,297,null,15637,999,1117
+1680425881994,15631,Login,200,OK,Thread Group 1-54,text,true,,807,503,295,295,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15631,0,1125
+1680425881124,15631,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-54,,true,,807,503,295,295,null,15631,871,1125
+1680425881986,15639,Login,200,OK,Thread Group 1-145,text,true,,824,515,295,295,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15639,0,1135
+1680425881400,15639,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-145,,true,,824,515,295,295,null,15639,587,1135
+1680425882002,15625,Login,200,OK,Thread Group 1-226,text,true,,813,507,293,293,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15625,0,1104
+1680425881646,15625,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-226,,true,,813,507,293,293,null,15625,356,1104
+1680425882000,15628,Login,200,OK,Thread Group 1-287,text,true,,815,504,292,292,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15628,0,1100
+1680425881821,15628,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-287,,true,,815,504,292,292,null,15628,179,1100
+1680425881977,15654,Login,200,OK,Thread Group 1-70,text,true,,808,506,291,291,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15654,0,1135
+1680425881179,15654,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-70,,true,,808,506,291,291,null,15654,799,1135
+1680425882002,15631,Login,200,OK,Thread Group 1-13,text,true,,815,510,290,290,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15630,0,1100
+1680425881000,15631,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-13,,true,,815,510,290,290,null,15630,1002,1100
+1680425881973,15660,Login,200,OK,Thread Group 1-300,text,true,,815,505,289,289,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15660,0,1145
+1680425881861,15660,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-300,,true,,815,505,289,289,null,15660,112,1145
+1680425882003,15632,Login,200,OK,Thread Group 1-157,text,true,,812,506,288,288,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15632,0,1128
+1680425881436,15632,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-157,,true,,812,506,288,288,null,15632,567,1128
+1680425882005,15635,Login,200,OK,Thread Group 1-125,text,true,,814,511,287,287,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15635,0,1131
+1680425881341,15635,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-125,,true,,814,511,287,287,null,15635,664,1131
+1680425882003,15637,Login,200,OK,Thread Group 1-156,text,true,,811,502,287,287,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15637,0,1111
+1680425881432,15637,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-156,,true,,811,502,287,287,null,15637,571,1111
+1680425881977,15663,Login,200,OK,Thread Group 1-67,text,true,,813,507,287,287,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15663,0,1126
+1680425881161,15663,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-67,,true,,813,507,287,287,null,15663,817,1126
+1680425881968,15673,Login,200,OK,Thread Group 1-191,text,true,,814,507,287,287,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15673,0,1134
+1680425881542,15673,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-191,,true,,814,507,287,287,null,15673,426,1134
+1680425881985,15655,Login,200,OK,Thread Group 1-14,text,true,,817,508,287,287,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15655,0,1116
+1680425881005,15655,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-14,,true,,817,508,287,287,null,15655,981,1116
+1680425881997,15644,Login,200,OK,Thread Group 1-197,text,true,,816,508,286,286,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15644,0,1110
+1680425881999,15642,Login,200,OK,Thread Group 1-76,text,true,,807,505,286,286,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15642,0,1118
+1680425881558,15644,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-197,,true,,816,508,286,286,null,15644,439,1110
+1680425881190,15642,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-76,,true,,807,505,286,286,null,15642,809,1118
+1680425882002,15641,Login,200,OK,Thread Group 1-124,text,true,,813,505,280,280,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15641,0,1106
+1680425881338,15641,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-124,,true,,813,505,280,280,null,15641,664,1106
+1680425882005,15639,Login,200,OK,Thread Group 1-166,text,true,,816,506,279,279,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15639,0,1104
+1680425881463,15639,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-166,,true,,816,506,279,279,null,15639,542,1104
+1680425882000,15653,Login,200,OK,Thread Group 1-153,text,true,,821,507,278,278,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15653,0,1123
+1680425881990,15663,Login,200,OK,Thread Group 1-250,text,true,,812,514,278,278,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15663,0,1111
+1680425881998,15655,Login,200,OK,Thread Group 1-139,text,true,,820,511,278,278,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15655,0,1116
+1680425881425,15653,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-153,,true,,821,507,278,278,null,15653,575,1123
+1680425881978,15675,Login,200,OK,Thread Group 1-277,text,true,,815,508,278,278,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15675,0,1123
+1680425881794,15675,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-277,,true,,815,508,278,278,null,15675,184,1123
+1680425881716,15663,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-250,,true,,812,514,278,278,null,15663,274,1111
+1680425881377,15655,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-139,,true,,820,511,278,278,null,15655,621,1116
+1680425881969,15685,Login,200,OK,Thread Group 1-129,text,true,,820,510,278,278,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15685,0,1162
+1680425882000,15654,Login,200,OK,Thread Group 1-292,text,true,,809,507,278,278,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15654,0,1103
+1680425881353,15685,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-129,,true,,820,510,278,278,null,15685,616,1162
+1680425881840,15654,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-292,,true,,809,507,278,278,null,15654,160,1103
+1680425882000,15655,Login,200,OK,Thread Group 1-182,text,true,,812,505,272,272,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15655,0,1136
+1680425881523,15655,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-182,,true,,812,505,272,272,null,15655,477,1136
+1680425881996,15661,Login,200,OK,Thread Group 1-293,text,true,,808,507,271,271,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15661,0,1118
+1680425881973,15684,Login,200,OK,Thread Group 1-15,text,true,,818,505,271,271,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15684,0,1161
+1680425881840,15661,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-293,,true,,808,507,271,271,null,15661,156,1118
+1680425881009,15684,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-15,,true,,818,505,271,271,null,15684,964,1161
+1680425882003,15655,Login,200,OK,Thread Group 1-296,text,true,,820,510,269,269,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15655,0,1140
+1680425881852,15655,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-296,,true,,820,510,269,269,null,15655,151,1140
+1680425881978,15683,Login,200,OK,Thread Group 1-194,text,true,,810,508,268,268,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15683,0,1144
+1680425881555,15683,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-194,,true,,810,508,268,268,null,15683,424,1144
+1680425881988,15675,Login,200,OK,Thread Group 1-251,text,true,,809,506,267,267,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15675,0,1127
+1680425881995,15668,Login,200,OK,Thread Group 1-16,text,true,,806,504,267,267,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15668,0,1149
+1680425881716,15675,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-251,,true,,809,506,267,267,null,15675,272,1127
+1680425881011,15668,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-16,,true,,806,504,267,267,null,15668,984,1149
+1680425881978,15685,Login,200,OK,Thread Group 1-137,text,true,,818,508,267,267,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15685,0,1172
+1680425881382,15685,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-137,,true,,818,508,267,267,null,15685,596,1172
+1680425882002,15663,Login,200,OK,Thread Group 1-49,text,true,,811,508,264,264,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15663,0,1126
+1680425881110,15663,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-49,,true,,811,508,264,264,null,15663,892,1126
+1680425881971,15694,Login,200,OK,Thread Group 1-233,text,true,,823,514,264,264,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15694,0,1130
+1680425881664,15694,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-233,,true,,823,514,264,264,null,15694,307,1130
+1680425881974,15692,Login,200,OK,Thread Group 1-234,text,true,,814,507,262,262,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15692,0,1172
+1680425881667,15692,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-234,,true,,814,507,262,262,null,15692,308,1172
+1680425881967,15705,Login,200,OK,Thread Group 1-5,text,true,,818,512,261,261,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15705,0,1169
+1680425881999,15673,Login,200,OK,Thread Group 1-27,text,true,,813,508,261,261,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15673,0,1146
+1680425881043,15673,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-27,,true,,813,508,261,261,null,15673,956,1146
+1680425880977,15705,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,818,512,261,261,null,15705,990,1169
+1680425881984,15689,Login,200,OK,Thread Group 1-150,text,true,,813,501,261,261,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15689,0,1145
+1680425881993,15680,Login,200,OK,Thread Group 1-120,text,true,,818,508,259,259,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15680,0,1125
+1680425881414,15689,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-150,,true,,813,501,261,261,null,15689,570,1145
+1680425881326,15680,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-120,,true,,818,508,259,259,null,15680,667,1125
+1680425882002,15671,Login,200,OK,Thread Group 1-84,text,true,,808,505,259,259,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15671,0,1144
+1680425881214,15671,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-84,,true,,808,505,259,259,null,15671,789,1144
+1680425882002,15676,Login,200,OK,Thread Group 1-228,text,true,,814,504,256,256,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15676,0,1137
+1680425881649,15676,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-228,,true,,814,504,256,256,null,15676,354,1137
+1680425881999,15681,Login,200,OK,Thread Group 1-20,text,true,,812,509,255,255,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15681,0,1135
+1680425881024,15681,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-20,,true,,812,509,255,255,null,15681,975,1135
+1680425882001,15680,Login,200,OK,Thread Group 1-148,text,true,,814,512,254,254,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15680,0,1138
+1680425881408,15680,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-148,,true,,814,512,254,254,null,15680,593,1138
+1680425881974,15720,Login,200,OK,Thread Group 1-6,text,true,,815,505,253,253,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15719,0,1176
+1680425881999,15695,Login,200,OK,Thread Group 1-172,text,true,,808,506,253,253,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15694,0,1156
+1680425880983,15720,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,815,505,253,253,null,15719,991,1176
+1680425881482,15695,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-172,,true,,808,506,253,253,null,15694,517,1156
+1680425881967,15730,Login,200,OK,Thread Group 1-114,text,true,,817,506,251,251,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15730,0,1179
+1680425881306,15730,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-114,,true,,817,506,251,251,null,15730,661,1179
+1680425881997,15701,Login,200,OK,Thread Group 1-78,text,true,,809,507,250,250,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15701,0,1152
+1680425882003,15695,Login,200,OK,Thread Group 1-297,text,true,,810,504,250,250,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15695,0,1120
+1680425881991,15707,Login,200,OK,Thread Group 1-7,text,true,,813,508,250,250,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15707,0,1143
+1680425880986,15707,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,813,508,250,250,null,15707,1005,1143
+1680425881200,15701,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-78,,true,,809,507,250,250,null,15701,797,1152
+1680425881852,15695,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-297,,true,,810,504,250,250,null,15695,151,1120
+1680425881986,15718,Login,200,OK,Thread Group 1-181,text,true,,815,510,247,247,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15718,0,1145
+1680425881512,15718,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-181,,true,,815,510,247,247,null,15718,474,1145
+1680425881984,15721,Login,200,OK,Thread Group 1-29,text,true,,816,508,246,246,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15721,0,1136
+1680425881048,15721,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-29,,true,,816,508,246,246,null,15721,937,1136
+1680425882001,15706,Login,200,OK,Thread Group 1-48,text,true,,812,507,245,245,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15706,0,1131
+1680425881107,15706,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-48,,true,,812,507,245,245,null,15706,894,1131
+1680425881985,15722,Login,200,OK,Thread Group 1-230,text,true,,818,506,245,245,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15722,0,1163
+1680425881655,15722,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-230,,true,,818,506,245,245,null,15722,330,1163
+1680425881994,15713,Login,200,OK,Thread Group 1-99,text,true,,810,506,244,244,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15713,0,1142
+1680425881261,15713,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-99,,true,,810,506,244,244,null,15713,734,1142
+1680425881995,15714,Login,200,OK,Thread Group 1-173,text,true,,814,511,242,242,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15714,0,1133
+1680425881481,15714,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-173,,true,,814,511,242,242,null,15714,514,1133
+1680425882001,15710,Login,200,OK,Thread Group 1-245,text,true,,817,510,241,241,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15710,0,1133
+1680425881699,15710,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-245,,true,,817,510,241,241,null,15710,302,1133
+1680425881967,15746,Login,200,OK,Thread Group 1-88,text,true,,815,509,240,240,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15745,0,1202
+1680425881227,15746,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-88,,true,,815,509,240,240,null,15745,740,1202
+1680425882005,15711,Login,200,OK,Thread Group 1-281,text,true,,812,502,239,239,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15711,0,1134
+1680425881807,15711,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-281,,true,,812,502,239,239,null,15711,198,1134
+1680425881992,15726,Login,200,OK,Thread Group 1-51,text,true,,813,507,238,238,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15726,0,1157
+1680425881117,15726,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-51,,true,,813,507,238,238,null,15726,876,1157
+1680425881996,15723,Login,200,OK,Thread Group 1-199,text,true,,812,509,238,238,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15723,0,1170
+1680425881560,15723,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-199,,true,,812,509,238,238,null,15723,436,1170
+1680425881999,15722,Login,200,OK,Thread Group 1-154,text,true,,811,503,236,236,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15722,0,1150
+1680425881428,15722,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-154,,true,,811,503,236,236,null,15722,571,1150
+1680425882009,15713,Login,200,OK,Thread Group 1-106,text,true,,810,503,235,235,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15713,0,1160
+1680425881286,15713,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-106,,true,,810,503,235,235,null,15713,723,1160
+1680425881977,15749,Login,200,OK,Thread Group 1-247,text,true,,817,508,234,234,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15749,0,1184
+1680425881705,15749,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-247,,true,,817,508,234,234,null,15749,273,1184
+1680425881999,15729,Login,200,OK,Thread Group 1-295,text,true,,821,509,233,233,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15729,0,1170
+1680425881996,15732,Login,200,OK,Thread Group 1-178,text,true,,790,498,233,233,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15732,0,1170
+1680425881511,15732,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-178,,true,,790,498,233,233,null,15732,485,1170
+1680425881847,15729,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-295,,true,,821,509,233,233,null,15729,152,1170
+1680425881999,15734,Login,200,OK,Thread Group 1-126,text,true,,815,505,231,231,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15734,0,1159
+1680425881344,15734,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-126,,true,,815,505,231,231,null,15734,655,1159
+1680425881994,15740,Login,200,OK,Thread Group 1-259,text,true,,814,512,230,230,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15740,0,1178
+1680425881740,15740,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-259,,true,,814,512,230,230,null,15740,254,1178
+1680425882004,15736,Login,200,OK,Thread Group 1-263,text,true,,816,509,229,229,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15736,0,1175
+1680425881751,15736,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-263,,true,,816,509,229,229,null,15736,253,1175
+1680425881985,15756,Login,200,OK,Thread Group 1-283,text,true,,812,505,228,228,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15756,0,1175
+1680425881812,15756,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-283,,true,,812,505,228,228,null,15756,174,1175
+1680425881978,15764,Login,200,OK,Thread Group 1-186,text,true,,811,506,228,228,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15764,0,1197
+1680425881970,15772,Login,200,OK,Thread Group 1-79,text,true,,823,515,228,228,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15772,0,1199
+1680425881200,15772,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-79,,true,,823,515,228,228,null,15772,770,1199
+1680425881528,15764,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-186,,true,,811,506,228,228,null,15764,450,1197
+1680425882000,15743,Login,200,OK,Thread Group 1-266,text,true,,816,503,227,227,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15743,0,1164
+1680425881971,15772,Login,200,OK,Thread Group 1-46,text,true,,816,506,227,227,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15772,0,1204
+1680425881099,15772,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-46,,true,,816,506,227,227,null,15772,873,1204
+1680425881760,15743,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-266,,true,,816,503,227,227,null,15743,241,1164
+1680425881985,15760,Login,200,OK,Thread Group 1-229,text,true,,811,508,223,223,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15760,0,1194
+1680425881652,15760,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-229,,true,,811,508,223,223,null,15760,333,1194
+1680425881978,15768,Login,200,OK,Thread Group 1-232,text,true,,814,508,222,222,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15768,0,1177
+1680425881658,15768,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-232,,true,,814,508,222,222,null,15768,320,1177
+1680425881991,15762,Login,200,OK,Thread Group 1-53,text,true,,810,504,221,221,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15762,0,1178
+1680425881121,15762,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-53,,true,,810,504,221,221,null,15762,870,1178
+1680425882004,15750,Login,200,OK,Thread Group 1-98,text,true,,814,506,220,220,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15750,0,1149
+1680425882003,15751,Login,200,OK,Thread Group 1-4,text,true,,815,511,220,220,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15751,0,1158
+1680425881261,15750,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-98,,true,,814,506,220,220,null,15750,744,1149
+1680425880973,15751,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,815,511,220,220,null,15751,1031,1158
+1680425882000,15757,Login,200,OK,Thread Group 1-284,text,true,,817,511,218,218,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15757,0,1160
+1680425881982,15775,Login,200,OK,Thread Group 1-193,text,true,,810,503,218,218,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15775,0,1175
+1680425881985,15772,Login,200,OK,Thread Group 1-134,text,true,,812,507,218,218,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15772,0,1192
+1680425881367,15772,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-134,,true,,812,507,218,218,null,15772,618,1192
+1680425881815,15757,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-284,,true,,817,511,218,218,null,15757,185,1160
+1680425881548,15775,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-193,,true,,810,503,218,218,null,15775,434,1175
+1680425881975,15799,Login,200,OK,Thread Group 1-47,text,true,,818,507,215,215,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15799,0,1186
+1680425881103,15799,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-47,,true,,818,507,215,215,null,15799,872,1186
+1680425882001,15774,Login,200,OK,Thread Group 1-165,text,true,,818,508,214,214,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15774,0,1178
+1680425881460,15774,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-165,,true,,818,508,214,214,null,15774,541,1178
+1680425881992,15785,Login,200,OK,Thread Group 1-90,text,true,,823,514,213,213,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15785,0,1171
+1680425881237,15785,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-90,,true,,823,514,213,213,null,15785,755,1171
+1680425882002,15775,Login,200,OK,Thread Group 1-77,text,true,,809,506,213,213,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15775,0,1182
+1680425881200,15775,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-77,,true,,809,506,213,213,null,15775,802,1182
+1680425881973,15806,Login,200,OK,Thread Group 1-86,text,true,,813,506,211,211,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15806,0,1183
+1680425881224,15806,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-86,,true,,813,506,211,211,null,15806,749,1183
+1680425881998,15782,Login,200,OK,Thread Group 1-241,text,true,,811,508,211,211,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15782,0,1178
+1680425881687,15782,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-241,,true,,811,508,211,211,null,15782,311,1178
+1680425881997,15784,Login,200,OK,Thread Group 1-170,text,true,,815,509,209,209,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15784,0,1179
+1680425881481,15784,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-170,,true,,815,509,209,209,null,15784,516,1179
+1680425882004,15782,Login,200,OK,Thread Group 1-208,text,true,,814,506,208,208,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15781,0,1150
+1680425882002,15784,Login,200,OK,Thread Group 1-290,text,true,,818,513,208,208,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15783,0,1191
+1680425881833,15784,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-290,,true,,818,513,208,208,null,15783,169,1191
+1680425881584,15782,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-208,,true,,814,506,208,208,null,15781,420,1150
+1680425881994,15792,Login,200,OK,Thread Group 1-282,text,true,,810,503,208,208,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15792,0,1194
+1680425881810,15792,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-282,,true,,810,503,208,208,null,15792,184,1194
+1680425881998,15789,Login,200,OK,Thread Group 1-152,text,true,,823,506,206,206,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15789,0,1190
+1680425881973,15814,Login,200,OK,Thread Group 1-231,text,true,,808,506,206,206,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15814,0,1215
+1680425881653,15814,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-231,,true,,808,506,206,206,null,15814,320,1215
+1680425881420,15789,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-152,,true,,823,506,206,206,null,15789,578,1190
+1680425881985,15802,Login,200,OK,Thread Group 1-213,text,true,,805,505,203,203,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15802,0,1198
+1680425881606,15802,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-213,,true,,805,505,203,203,null,15802,380,1198
+1680425881980,15808,Login,200,OK,Thread Group 1-66,text,true,,815,507,202,202,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15808,0,1204
+1680425881164,15808,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-66,,true,,815,507,202,202,null,15808,816,1204
+1680425881991,15799,Login,200,OK,Thread Group 1-26,text,true,,819,510,201,201,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15799,0,1200
+1680425882010,15780,Login,200,OK,Thread Group 1-225,text,true,,823,506,201,201,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15780,0,1170
+1680425881040,15799,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-26,,true,,819,510,201,201,null,15799,951,1200
+1680425881644,15780,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-225,,true,,823,506,201,201,null,15780,366,1170
+1680425882003,15788,Login,200,OK,Thread Group 1-294,text,true,,817,512,201,201,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15788,0,1173
+1680425881842,15788,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-294,,true,,817,512,201,201,null,15788,161,1173
+1680425881998,15795,Login,200,OK,Thread Group 1-195,text,true,,812,504,198,198,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15795,0,1190
+1680425881970,15823,Login,200,OK,Thread Group 1-189,text,true,,815,507,198,198,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15823,0,1202
+1680425881551,15795,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-195,,true,,812,504,198,198,null,15795,448,1190
+1680425881534,15823,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-189,,true,,815,507,198,198,null,15823,437,1202
+1680425882004,15790,Login,200,OK,Thread Group 1-168,text,true,,820,510,196,196,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15790,0,1180
+1680425881467,15790,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-168,,true,,820,510,196,196,null,15790,537,1180
+1680425881995,15800,Login,200,OK,Thread Group 1-243,text,true,,806,506,195,195,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15800,0,1196
+1680425881690,15800,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-243,,true,,806,506,195,195,null,15800,305,1196
+1680425881985,15811,Login,200,OK,Thread Group 1-23,text,true,,816,507,194,194,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15811,0,1202
+1680425881031,15811,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-23,,true,,816,507,194,194,null,15811,955,1202
+1680425882000,15797,Login,200,OK,Thread Group 1-61,text,true,,820,506,194,194,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15797,0,1194
+1680425881146,15797,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-61,,true,,820,506,194,194,null,15797,854,1194
+1680425881994,15806,Login,200,OK,Thread Group 1-96,text,true,,815,512,192,192,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15806,0,1199
+1680425882010,15790,Login,200,OK,Thread Group 1-82,text,true,,813,508,192,192,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15790,0,1186
+1680425882001,15799,Login,200,OK,Thread Group 1-224,text,true,,810,504,192,192,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15799,0,1197
+1680425881638,15799,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-224,,true,,810,504,192,192,null,15799,363,1197
+1680425881212,15790,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-82,,true,,813,508,192,192,null,15790,798,1186
+1680425881251,15806,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-96,,true,,815,512,192,192,null,15806,743,1199
+1680425881989,15812,Login,200,OK,Thread Group 1-147,text,true,,810,503,189,189,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15812,0,1215
+1680425881405,15812,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-147,,true,,810,503,189,189,null,15812,584,1215
+1680425882001,15805,Login,200,OK,Thread Group 1-107,text,true,,809,505,188,188,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15805,0,1194
+1680425881281,15805,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-107,,true,,809,505,188,188,null,15805,720,1194
+1680425882009,15797,Login,200,OK,Thread Group 1-298,text,true,,813,507,188,188,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15797,0,1191
+1680425881995,15811,Login,200,OK,Thread Group 1-52,text,true,,816,509,188,188,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15811,0,1188
+1680425881855,15797,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-298,,true,,813,507,188,188,null,15797,154,1191
+1680425881119,15811,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-52,,true,,816,509,188,188,null,15811,876,1188
+1680425881970,15837,Login,200,OK,Thread Group 1-33,text,true,,813,503,185,185,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15837,0,1229
+1680425881969,15838,Login,200,OK,Thread Group 1-105,text,true,,807,504,185,185,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15838,0,1229
+1680425881983,15824,Login,200,OK,Thread Group 1-261,text,true,,819,504,185,185,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15824,0,1201
+1680425881281,15838,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-105,,true,,807,504,185,185,null,15838,688,1229
+1680425881060,15837,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-33,,true,,813,503,185,185,null,15837,910,1229
+1680425881746,15824,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-261,,true,,819,504,185,185,null,15824,237,1201
+1680425881997,15811,Login,200,OK,Thread Group 1-236,text,true,,821,516,185,183,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15811,0,1196
+1680425881673,15811,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-236,,true,,821,516,185,183,null,15811,324,1196
+1680425881996,15813,Login,200,OK,Thread Group 1-274,text,true,,810,507,181,181,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15813,0,1199
+1680425881786,15813,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-274,,true,,810,507,181,181,null,15813,210,1199
+1680425882002,15808,Login,200,OK,Thread Group 1-72,text,true,,816,508,180,180,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15808,0,1200
+1680425881178,15808,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-72,,true,,816,508,180,180,null,15808,825,1200
+1680425882004,15808,Login,200,OK,Thread Group 1-69,text,true,,814,506,179,179,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15808,0,1194
+1680425881172,15808,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-69,,true,,814,506,179,179,null,15808,832,1194
+1680425881969,15844,Login,200,OK,Thread Group 1-115,text,true,,816,511,178,178,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15844,0,1233
+1680425881308,15844,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-115,,true,,816,511,178,178,null,15844,661,1233
+1680425881984,15829,Login,200,OK,Thread Group 1-254,text,true,,818,511,178,178,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15829,0,1216
+1680425881726,15829,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-254,,true,,818,511,178,178,null,15829,258,1216
+1680425881967,15847,Login,200,OK,Thread Group 1-267,text,true,,811,507,176,176,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15847,0,1212
+1680425881764,15847,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-267,,true,,811,507,176,176,null,15847,204,1212
+1680425882004,15812,Login,200,OK,Thread Group 1-299,text,true,,811,504,175,175,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15812,0,1200
+1680425881858,15812,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-299,,true,,811,504,175,175,null,15812,146,1200
+1680425881991,15826,Login,200,OK,Thread Group 1-215,text,true,,818,511,174,174,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15826,0,1210
+1680425881969,15848,Login,200,OK,Thread Group 1-74,text,true,,809,508,174,174,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15848,0,1232
+1680425881609,15826,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-215,,true,,818,511,174,174,null,15826,383,1210
+1680425881188,15848,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-74,,true,,809,508,174,174,null,15848,782,1232
+1680425882005,15814,Login,200,OK,Thread Group 1-9,text,true,,807,504,172,172,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15814,0,1169
+1680425880990,15814,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,807,504,172,172,null,15814,1015,1169
+1680425881989,15836,Login,200,OK,Thread Group 1-34,text,true,,813,505,171,171,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15836,0,1206
+1680425881977,15848,Login,200,OK,Thread Group 1-111,text,true,,816,509,171,171,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15848,0,1216
+1680425881294,15848,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-111,,true,,816,509,171,171,null,15848,683,1216
+1680425881066,15836,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-34,,true,,813,505,171,171,null,15836,923,1206
+1680425881995,15831,Login,200,OK,Thread Group 1-190,text,true,,822,512,169,169,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15831,0,1209
+1680425881538,15831,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-190,,true,,822,512,169,169,null,15831,457,1209
+1680425882002,15826,Login,200,OK,Thread Group 1-132,text,true,,820,503,168,168,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15826,0,1205
+1680425881969,15859,Login,200,OK,Thread Group 1-18,text,true,,814,509,168,168,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15859,0,1214
+1680425881361,15826,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-132,,true,,820,503,168,168,null,15826,642,1205
+1680425881018,15859,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-18,,true,,814,509,168,168,null,15859,952,1214
+1680425882005,15824,Login,200,OK,Thread Group 1-121,text,true,,811,505,166,166,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15824,0,1208
+1680425881329,15824,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-121,,true,,811,505,166,166,null,15824,676,1208
+1680425881999,15831,Login,200,OK,Thread Group 1-44,text,true,,818,510,165,165,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15831,0,1214
+1680425881095,15831,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-44,,true,,818,510,165,165,null,15831,904,1214
+1680425882009,15822,Login,200,OK,Thread Group 1-252,text,true,,814,503,164,164,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15822,0,1196
+1680425881719,15822,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-252,,true,,814,503,164,164,null,15822,290,1196
+1680425881994,15841,Login,200,OK,Thread Group 1-95,text,true,,822,513,163,163,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15841,0,1216
+1680425881246,15841,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-95,,true,,822,513,163,163,null,15841,748,1216
+1680425882002,15835,Login,200,OK,Thread Group 1-183,text,true,,822,510,162,162,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15835,0,1209
+1680425881518,15835,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-183,,true,,822,510,162,162,null,15835,484,1209
+1680425881994,15844,Login,200,OK,Thread Group 1-201,text,true,,811,504,161,161,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15844,0,1217
+1680425881570,15844,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-201,,true,,811,504,161,161,null,15844,425,1217
+1680425881998,15843,Login,200,OK,Thread Group 1-39,text,true,,819,506,160,160,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15843,0,1208
+1680425882003,15838,Login,200,OK,Thread Group 1-158,text,true,,814,509,160,160,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15838,0,1246
+1680425881080,15843,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-39,,true,,819,506,160,160,null,15843,918,1208
+1680425881437,15838,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-158,,true,,814,509,160,160,null,15838,566,1246
+1680425881992,15855,Login,200,OK,Thread Group 1-288,text,true,,813,505,158,158,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15855,0,1224
+1680425881825,15855,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-288,,true,,813,505,158,158,null,15855,168,1224
+1680425881967,15882,Login,200,OK,Thread Group 1-24,text,true,,809,504,157,157,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15882,0,1242
+1680425881036,15882,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-24,,true,,809,504,157,157,null,15882,931,1242
+1680425881993,15869,Login,200,OK,Thread Group 1-187,text,true,,817,510,156,156,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15869,0,1214
+1680425882000,15862,Login,200,OK,Thread Group 1-268,text,true,,818,507,156,156,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15862,0,1228
+1680425881522,15869,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-187,,true,,817,510,156,156,null,15869,471,1214
+1680425881765,15862,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-268,,true,,818,507,156,156,null,15862,235,1228
+1680425881975,15892,Login,200,OK,Thread Group 1-94,text,true,,814,513,154,154,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15892,0,1239
+1680425881251,15892,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-94,,true,,814,513,154,154,null,15892,724,1239
+1680425882005,15863,Login,200,OK,Thread Group 1-21,text,true,,816,509,153,153,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15863,0,1211
+1680425881026,15863,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-21,,true,,816,509,153,153,null,15863,980,1211
+1680425881972,15899,Login,200,OK,Thread Group 1-184,text,true,,818,508,152,152,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15899,0,1289
+1680425881521,15899,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-184,,true,,818,508,152,152,null,15899,451,1289
+1680425882004,15868,Login,200,OK,Thread Group 1-257,text,true,,820,505,152,152,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15868,0,1213
+1680425881736,15868,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-257,,true,,820,505,152,152,null,15868,268,1213
+1680425882004,15875,Login,200,OK,Thread Group 1-159,text,true,,811,507,150,150,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15875,0,1281
+1680425881993,15886,Login,200,OK,Thread Group 1-273,text,true,,821,511,150,150,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15886,0,1227
+1680425881985,15894,Login,200,OK,Thread Group 1-265,text,true,,809,506,150,150,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15894,0,1334
+1680425881758,15894,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-265,,true,,809,506,150,150,null,15894,227,1334
+1680425881441,15875,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-159,,true,,811,507,150,150,null,15875,563,1281
+1680425881784,15886,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-273,,true,,821,511,150,150,null,15886,209,1227
+1680425882010,15869,Login,200,OK,Thread Group 1-58,text,true,,825,504,150,150,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15869,0,1315
+1680425881138,15869,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-58,,true,,825,504,150,150,null,15869,872,1315
+1680425881990,15890,Login,200,OK,Thread Group 1-118,text,true,,811,506,146,146,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15890,0,1329
+1680425881325,15890,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-118,,true,,811,506,146,146,null,15890,666,1329
+1680425881982,15899,Login,200,OK,Thread Group 1-60,text,true,,809,504,146,146,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15899,0,1243
+1680425881989,15892,Login,200,OK,Thread Group 1-75,text,true,,814,507,145,145,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15892,0,1222
+1680425881142,15899,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-60,,true,,809,504,146,146,null,15899,840,1243
+1680425881187,15892,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-75,,true,,814,507,145,145,null,15892,802,1222
+1680425881978,15905,Login,200,OK,Thread Group 1-45,text,true,,818,509,143,143,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15905,0,1235
+1680425881095,15905,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-45,,true,,818,509,143,143,null,15905,883,1235
+1680425882000,15883,Login,200,OK,Thread Group 1-212,text,true,,813,509,143,143,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15883,0,1263
+1680425881603,15883,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-212,,true,,813,509,143,143,null,15883,397,1263
+1680425881989,15895,Login,200,OK,Thread Group 1-209,text,true,,811,506,141,141,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15895,0,1252
+1680425881595,15895,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-209,,true,,811,506,141,141,null,15895,394,1252
+1680425882004,15881,Login,200,OK,Thread Group 1-135,text,true,,813,507,140,140,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15881,0,1212
+1680425881373,15881,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-135,,true,,813,507,140,140,null,15881,631,1212
+1680425881992,15896,Login,200,OK,Thread Group 1-142,text,true,,816,507,139,139,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15896,0,1228
+1680425881997,15891,Login,200,OK,Thread Group 1-93,text,true,,812,505,139,139,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15891,0,1360
+1680425881387,15896,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-142,,true,,816,507,139,139,null,15896,605,1228
+1680425881246,15891,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-93,,true,,812,505,139,139,null,15891,751,1360
+1680425881972,15916,Login,200,OK,Thread Group 1-63,text,true,,811,508,138,138,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15916,0,1325
+1680425881150,15916,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-63,,true,,811,508,138,138,null,15916,823,1325
+1680425881984,15906,Login,200,OK,Thread Group 1-270,text,true,,820,508,136,136,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15906,0,1380
+1680425881776,15906,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-270,,true,,820,508,136,136,null,15906,208,1380
+1680425881994,15900,Login,200,OK,Thread Group 1-255,text,true,,819,510,135,135,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15900,0,1366
+1680425881728,15900,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-255,,true,,819,510,135,135,null,15900,266,1366
+1680425881987,15908,Login,200,OK,Thread Group 1-207,text,true,,813,507,134,134,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15908,0,1366
+1680425881589,15908,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-207,,true,,813,507,134,134,null,15908,398,1366
+1680425881986,15912,Login,200,OK,Thread Group 1-62,text,true,,810,506,133,133,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15912,0,1412
+1680425881985,15913,Login,200,OK,Thread Group 1-110,text,true,,807,505,133,133,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15913,0,1338
+1680425881147,15912,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-62,,true,,810,506,133,133,null,15912,839,1412
+1680425881300,15913,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-110,,true,,807,505,133,133,null,15913,685,1338
+1680425882002,15898,Login,200,OK,Thread Group 1-151,text,true,,821,513,132,132,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15898,0,1362
+1680425881414,15898,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-151,,true,,821,513,132,132,null,15898,588,1362
+1680425881997,15903,Login,200,OK,Thread Group 1-210,text,true,,817,507,131,131,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15903,0,1328
+1680425881593,15903,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-210,,true,,817,507,131,131,null,15903,404,1328
+1680425881998,15903,Login,200,OK,Thread Group 1-240,text,true,,819,509,130,130,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15903,0,1353
+1680425881684,15903,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-240,,true,,819,509,130,130,null,15903,314,1353
+1680425882000,15902,Login,200,OK,Thread Group 1-271,text,true,,816,506,128,128,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15902,0,1354
+1680425881775,15902,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-271,,true,,816,506,128,128,null,15902,225,1354
+1680425882005,15898,Login,200,OK,Thread Group 1-2,text,true,,806,503,127,127,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15898,0,1363
+1680425880969,15898,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,806,503,127,127,null,15898,1036,1363
+1680425881983,15921,Login,200,OK,Thread Group 1-258,text,true,,810,506,126,126,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15921,0,1385
+1680425881735,15921,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-258,,true,,810,506,126,126,null,15921,248,1385
+1680425881996,15910,Login,200,OK,Thread Group 1-128,text,true,,824,511,125,125,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15910,0,1348
+1680425881350,15910,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-128,,true,,824,511,125,125,null,15910,646,1348
+1680425882001,15910,Login,200,OK,Thread Group 1-167,text,true,,821,509,124,124,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15910,0,1356
+1680425881464,15910,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-167,,true,,821,509,124,124,null,15910,537,1356
+1680425881969,15942,Login,200,OK,Thread Group 1-83,text,true,,823,511,123,123,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15942,0,1411
+1680425881208,15942,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-83,,true,,823,511,123,123,null,15942,762,1411
+1680425881977,15939,Login,200,OK,Thread Group 1-144,text,true,,820,515,122,122,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15939,0,1407
+1680425881968,15948,Login,200,OK,Thread Group 1-202,text,true,,813,505,122,122,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15948,0,1395
+1680425881397,15939,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-144,,true,,820,515,122,122,null,15939,580,1407
+1680425881568,15948,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-202,,true,,813,505,122,122,null,15948,400,1395
+1680425881996,15923,Login,200,OK,Thread Group 1-55,text,true,,810,502,120,120,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15923,0,1410
+1680425881127,15923,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-55,,true,,810,502,120,120,null,15923,869,1410
+1680425881976,15943,Login,200,OK,Thread Group 1-10,text,true,,811,504,119,119,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15943,0,1385
+1680425880995,15943,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,811,504,119,119,null,15943,982,1385
+1680425882000,15932,Login,200,OK,Thread Group 1-38,text,true,,821,513,118,118,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15932,0,1399
+1680425882000,15932,Login,200,OK,Thread Group 1-1,text,true,,809,506,118,118,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15932,0,1216
+1680425880969,15932,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,809,506,118,118,null,15932,1032,1216
+1680425881077,15932,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-38,,true,,821,513,118,118,null,15932,924,1399
+1680425882002,15930,Login,200,OK,Thread Group 1-286,text,true,,817,508,118,118,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15930,0,1267
+1680425881969,15963,Login,200,OK,Thread Group 1-214,text,true,,813,510,118,118,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15963,0,1416
+1680425881820,15930,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-286,,true,,817,508,118,118,null,15930,183,1267
+1680425881609,15963,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-214,,true,,813,510,118,118,null,15963,361,1416
+1680425881979,15954,Login,200,OK,Thread Group 1-242,text,true,,826,514,118,118,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15954,0,1245
+1680425881692,15954,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-242,,true,,826,514,118,118,null,15954,287,1245
+1680425881980,15954,Login,200,OK,Thread Group 1-179,text,true,,818,506,113,113,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15954,0,1387
+1680425881503,15954,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-179,,true,,818,506,113,113,null,15954,477,1387
+1680425882002,15932,Login,200,OK,Thread Group 1-291,text,true,,815,510,113,113,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15932,0,1383
+1680425882003,15931,Login,200,OK,Thread Group 1-239,text,true,,815,508,113,113,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15931,0,1401
+1680425882005,15929,Login,200,OK,Thread Group 1-218,text,true,,811,504,113,113,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15929,0,1403
+1680425881682,15931,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-239,,true,,815,508,113,113,null,15931,321,1401
+1680425881834,15932,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-291,,true,,815,510,113,113,null,15932,168,1383
+1680425881622,15929,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-218,,true,,811,504,113,113,null,15929,383,1403
+1680425882004,15930,Login,200,OK,Thread Group 1-169,text,true,,812,505,113,113,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15930,0,1392
+1680425881472,15930,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-169,,true,,812,505,113,113,null,15930,533,1392
+1680425881997,15937,Login,200,OK,Thread Group 1-198,text,true,,817,512,113,113,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15937,0,1290
+1680425881563,15937,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-198,,true,,817,512,113,113,null,15937,435,1290
+1680425881993,15942,Login,200,OK,Thread Group 1-92,text,true,,814,510,109,109,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15942,0,1383
+1680425881237,15942,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-92,,true,,814,510,109,109,null,15942,757,1383
+1680425881985,15951,Login,200,OK,Thread Group 1-25,text,true,,817,509,109,109,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15951,0,1376
+1680425881040,15951,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-25,,true,,817,509,109,109,null,15951,945,1376
+1680425881999,15941,Login,200,OK,Thread Group 1-161,text,true,,817,511,105,105,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15941,0,1364
+1680425881448,15941,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-161,,true,,817,511,105,105,null,15941,551,1364
+1680425882003,15938,Login,200,OK,Thread Group 1-289,text,true,,809,506,104,104,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15938,0,1384
+1680425881829,15938,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-289,,true,,809,506,104,104,null,15938,174,1384
+1680425881999,15943,Login,200,OK,Thread Group 1-87,text,true,,819,513,103,103,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15943,0,1369
+1680425881222,15943,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-87,,true,,819,513,103,103,null,15943,778,1369
+1680425882005,15938,Login,200,OK,Thread Group 1-246,text,true,,810,505,103,103,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15938,0,1376
+1680425881984,15959,Login,200,OK,Thread Group 1-253,text,true,,810,505,103,103,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15959,0,1389
+1680425882003,15940,Login,200,OK,Thread Group 1-160,text,true,,817,510,103,103,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15940,0,1415
+1680425881445,15940,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-160,,true,,817,510,103,103,null,15940,558,1415
+1680425881703,15938,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-246,,true,,810,505,103,103,null,15938,302,1376
+1680425881728,15959,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-253,,true,,810,505,103,103,null,15959,256,1389
+1680425881986,15959,Login,200,OK,Thread Group 1-117,text,true,,825,515,99,99,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15959,0,1427
+1680425881995,15950,Login,200,OK,Thread Group 1-192,text,true,,812,504,99,99,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15950,0,1452
+1680425881544,15950,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-192,,true,,812,504,99,99,null,15950,451,1452
+1680425881317,15959,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-117,,true,,825,515,99,99,null,15959,669,1427
+1680425882001,15945,Login,200,OK,Thread Group 1-163,text,true,,812,508,97,97,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15945,0,1377
+1680425881454,15945,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-163,,true,,812,508,97,97,null,15945,547,1377
+1680425881974,15975,Login,200,OK,Thread Group 1-235,text,true,,814,507,96,96,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15975,0,1446
+1680425882001,15948,Login,200,OK,Thread Group 1-162,text,true,,815,506,96,96,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15948,0,1409
+1680425881452,15948,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-162,,true,,815,506,96,96,null,15948,549,1409
+1680425881671,15975,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-235,,true,,814,507,96,96,null,15975,304,1446
+1680425881979,15976,Login,200,OK,Thread Group 1-272,text,true,,808,507,94,94,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15976,0,1443
+1680425881775,15976,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-272,,true,,808,507,94,94,null,15976,204,1443
+1680425882002,15971,Login,200,OK,Thread Group 1-177,text,true,,811,507,93,93,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15971,0,1384
+1680425881497,15971,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-177,,true,,811,507,93,93,null,15971,505,1384
+1680425881992,15987,Login,200,OK,Thread Group 1-256,text,true,,817,512,92,92,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,15987,0,1487
+1680425881731,15987,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-256,,true,,817,512,92,92,null,15987,261,1487
+1680425881970,16047,Login,200,OK,Thread Group 1-89,text,true,,816,510,91,91,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16047,0,1446
+1680425881233,16047,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-89,,true,,816,510,91,91,null,16047,737,1446
+1680425881998,16063,Login,200,OK,Thread Group 1-28,text,true,,819,511,90,90,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16062,0,1467
+1680425881045,16063,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-28,,true,,819,511,90,90,null,16062,953,1467
+1680425881972,16129,Login,200,OK,Thread Group 1-73,text,true,,820,509,89,89,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16129,0,1444
+1680425881188,16129,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-73,,true,,820,509,89,89,null,16129,784,1444
+1680425881967,16173,Login,200,OK,Thread Group 1-122,text,true,,812,509,88,88,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16173,0,1445
+1680425881334,16173,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-122,,true,,812,509,88,88,null,16173,633,1445
+1680425882005,16170,Login,200,OK,Thread Group 1-68,text,true,,813,507,87,87,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16170,0,1250
+1680425882004,16171,Login,200,OK,Thread Group 1-80,text,true,,813,509,87,87,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16171,0,1203
+1680425881163,16170,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-68,,true,,813,507,87,87,null,16170,842,1250
+1680425881202,16171,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-80,,true,,813,509,87,87,null,16171,802,1203
+1680425881987,16190,Login,200,OK,Thread Group 1-108,text,true,,824,511,85,85,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16190,0,1233
+1680425881285,16190,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-108,,true,,824,511,85,85,null,16190,702,1233
+1680425881976,16206,Login,200,OK,Thread Group 1-188,text,true,,808,508,84,84,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16206,0,1487
+1680425881530,16206,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-188,,true,,808,508,84,84,null,16206,466,1487
+1680425882005,16219,Login,200,OK,Thread Group 1-56,text,true,,811,506,83,83,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16219,0,1436
+1680425881132,16219,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-56,,true,,811,506,83,83,null,16219,873,1436
+1680425882003,16234,Login,200,OK,Thread Group 1-50,text,true,,810,506,82,82,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16234,0,1412
+1680425881111,16234,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-50,,true,,810,506,82,82,null,16234,892,1412
+1680425882004,16265,Login,200,OK,Thread Group 1-279,text,true,,820,512,81,81,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16265,0,1440
+1680425882010,16259,Login,200,OK,Thread Group 1-185,text,true,,819,512,81,81,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16259,0,1414
+1680425881797,16265,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-279,,true,,820,512,81,81,null,16265,207,1440
+1680425881524,16259,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-185,,true,,819,512,81,81,null,16259,486,1414
+1680425881979,16328,Login,200,OK,Thread Group 1-175,text,true,,807,502,79,79,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16328,0,1461
+1680425881490,16328,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-175,,true,,807,502,79,79,null,16328,490,1461
+1680425882003,16382,Login,200,OK,Thread Group 1-155,text,true,,816,511,78,78,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16382,0,1417
+1680425881437,16382,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-155,,true,,816,511,78,78,null,16382,567,1417
+1680425881969,16419,Login,200,OK,Thread Group 1-180,text,true,,811,507,77,77,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16419,0,1500
+1680425881515,16419,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-180,,true,,811,507,77,77,null,16419,455,1500
+1680425881976,16456,Login,200,OK,Thread Group 1-40,text,true,,812,507,76,76,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16456,0,1486
+1680425881082,16456,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-40,,true,,812,507,76,76,null,16456,894,1486
+1680425882004,16471,Login,200,OK,Thread Group 1-30,text,true,,808,504,75,75,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16471,0,1454
+1680425881053,16471,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-30,,true,,808,504,75,75,null,16471,952,1454
+1680425882001,16509,Login,200,OK,Thread Group 1-269,text,true,,815,507,74,74,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16509,0,1468
+1680425881771,16509,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-269,,true,,815,507,74,74,null,16509,230,1468
+1680425881967,16584,Login,200,OK,Thread Group 1-57,text,true,,815,509,73,73,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16584,0,1488
+1680425881134,16584,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-57,,true,,815,509,73,73,null,16584,834,1488
+1680425882000,16595,Login,200,OK,Thread Group 1-141,text,true,,814,505,72,72,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16595,0,1458
+1680425881388,16595,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-141,,true,,814,505,72,72,null,16595,612,1458
+1680425881992,16639,Login,200,OK,Thread Group 1-219,text,true,,822,508,71,71,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16639,0,1228
+1680425881621,16639,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-219,,true,,822,508,71,71,null,16639,371,1228
+1680425881983,16691,Login,200,OK,Thread Group 1-136,text,true,,819,510,70,70,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16691,0,1399
+1680425881375,16691,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-136,,true,,819,510,70,70,null,16691,608,1399
+1680425881978,16733,Login,200,OK,Thread Group 1-37,text,true,,822,512,69,69,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16733,0,1505
+1680425881072,16733,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-37,,true,,822,512,69,69,null,16733,906,1505
+1680425881979,16774,Login,200,OK,Thread Group 1-222,text,true,,810,509,68,68,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16774,0,1493
+1680425881635,16774,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-222,,true,,810,509,68,68,null,16774,344,1493
+1680425882004,16790,Login,200,OK,Thread Group 1-227,text,true,,824,504,67,67,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16790,0,1447
+1680425881646,16790,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-227,,true,,824,504,67,67,null,16790,358,1447
+1680425882005,16829,Login,200,OK,Thread Group 1-19,text,true,,817,511,66,66,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16829,0,1419
+1680425881021,16829,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-19,,true,,817,511,66,66,null,16829,985,1419
+1680425881978,16897,Login,200,OK,Thread Group 1-204,text,true,,807,506,65,65,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16897,0,1509
+1680425881580,16897,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-204,,true,,807,506,65,65,null,16897,398,1509
+1680425881971,16944,Login,200,OK,Thread Group 1-200,text,true,,813,510,64,64,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16944,0,1516
+1680425881567,16944,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-200,,true,,813,510,64,64,null,16944,404,1516
+1680425882002,16954,Login,200,OK,Thread Group 1-211,text,true,,810,506,63,63,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,16954,0,1465
+1680425881600,16954,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-211,,true,,810,506,63,63,null,16954,402,1465
+1680425881978,17019,Login,200,OK,Thread Group 1-276,text,true,,825,511,62,62,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17019,0,1509
+1680425881789,17019,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-276,,true,,825,511,62,62,null,17019,190,1509
+1680425881985,17056,Login,200,OK,Thread Group 1-22,text,true,,826,511,61,61,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17056,0,1475
+1680425881029,17056,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-22,,true,,826,511,61,61,null,17056,956,1475
+1680425882005,17075,Login,200,OK,Thread Group 1-123,text,true,,811,505,60,60,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17075,0,1375
+1680425881335,17075,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-123,,true,,811,505,60,60,null,17075,670,1375
+1680425881997,17123,Login,200,OK,Thread Group 1-109,text,true,,811,510,59,59,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17123,0,1511
+1680425881295,17123,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-109,,true,,811,510,59,59,null,17123,702,1511
+1680425882003,17161,Login,200,OK,Thread Group 1-196,text,true,,810,506,58,58,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17161,0,1479
+1680425881556,17161,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-196,,true,,810,506,58,58,null,17161,447,1479
+1680425881969,17234,Login,200,OK,Thread Group 1-85,text,true,,811,509,57,57,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17234,0,1499
+1680425881220,17234,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-85,,true,,811,509,57,57,null,17234,763,1499
+1680425881985,17255,Login,200,OK,Thread Group 1-65,text,true,,806,502,56,56,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17255,0,1402
+1680425881158,17255,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-65,,true,,806,502,56,56,null,17255,827,1402
+1680425881993,17290,Login,200,OK,Thread Group 1-260,text,true,,816,510,55,55,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17290,0,1516
+1680425881744,17290,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-260,,true,,816,510,55,55,null,17290,249,1516
+1680425882003,17323,Login,200,OK,Thread Group 1-164,text,true,,820,514,54,54,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17323,0,1505
+1680425881460,17323,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-164,,true,,820,514,54,54,null,17323,543,1505
+1680425881985,17379,Login,200,OK,Thread Group 1-146,text,true,,816,510,53,53,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17379,0,1500
+1680425881398,17379,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-146,,true,,816,510,53,53,null,17379,587,1500
+1680425881971,17432,Login,200,OK,Thread Group 1-203,text,true,,819,512,52,52,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17432,0,1194
+1680425881576,17432,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-203,,true,,819,512,52,52,null,17432,396,1194
+1680425881992,17452,Login,200,OK,Thread Group 1-31,text,true,,811,505,51,51,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17452,0,1523
+1680425881055,17452,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-31,,true,,811,505,51,51,null,17452,937,1523
+1680425881996,17490,Login,200,OK,Thread Group 1-280,text,true,,815,507,50,50,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17490,0,1547
+1680425881802,17490,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-280,,true,,815,507,50,50,null,17490,195,1547
+1680425881980,17542,Login,200,OK,Thread Group 1-113,text,true,,819,507,49,49,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17542,0,1529
+1680425881306,17542,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-113,,true,,819,507,49,49,null,17542,674,1529
+1680425881979,17583,Login,200,OK,Thread Group 1-131,text,true,,812,507,48,48,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17583,0,1525
+1680425881358,17583,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-131,,true,,812,507,48,48,null,17583,621,1525
+1680425881975,17633,Login,200,OK,Thread Group 1-130,text,true,,808,507,47,47,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17633,0,1534
+1680425881356,17633,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-130,,true,,808,507,47,47,null,17633,619,1534
+1680425881972,17675,Login,200,OK,Thread Group 1-223,text,true,,808,505,46,46,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17675,0,1531
+1680425881633,17675,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-223,,true,,808,505,46,46,null,17675,339,1531
+1680425881998,17689,Login,200,OK,Thread Group 1-138,text,true,,841,506,45,45,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17689,0,1506
+1680425881379,17689,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-138,,true,,841,506,45,45,null,17689,619,1506
+1680425881979,17754,Login,200,OK,Thread Group 1-3,text,true,,803,505,44,44,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17754,0,1524
+1680425880977,17754,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,803,505,44,44,null,17754,1002,1524
+1680425881996,17775,Login,200,OK,Thread Group 1-278,text,true,,817,510,43,43,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17775,0,1557
+1680425881797,17775,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-278,,true,,817,510,43,43,null,17775,200,1557
+1680425881977,17871,Login,200,OK,Thread Group 1-127,text,true,,826,516,42,42,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17871,0,1539
+1680425881352,17871,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-127,,true,,826,516,42,42,null,17871,625,1539
+1680425881968,17885,Login,200,OK,Thread Group 1-64,text,true,,818,511,41,41,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17885,0,1415
+1680425881152,17885,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-64,,true,,818,511,41,41,null,17885,817,1415
+1680425881968,17921,Login,200,OK,Thread Group 1-119,text,true,,811,507,40,40,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17921,0,1583
+1680425881323,17921,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-119,,true,,811,507,40,40,null,17921,646,1583
+1680425881994,17946,Login,200,OK,Thread Group 1-285,text,true,,814,505,39,39,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17946,0,1558
+1680425881819,17946,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-285,,true,,814,505,39,39,null,17946,177,1558
+1680425881999,17977,Login,200,OK,Thread Group 1-36,text,true,,822,509,38,38,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,17977,0,1504
+1680425881070,17977,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-36,,true,,822,509,38,38,null,17977,929,1504
+1680425881978,18081,Login,200,OK,Thread Group 1-43,text,true,,814,506,37,37,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18081,0,1557
+1680425881095,18081,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-43,,true,,814,506,37,37,null,18081,884,1557
+1680425882001,18062,Login,200,OK,Thread Group 1-59,text,true,,813,505,36,36,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18062,0,1510
+1680425881139,18062,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-59,,true,,813,505,36,36,null,18062,862,1510
+1680425882001,18098,Login,200,OK,Thread Group 1-237,text,true,,818,513,35,35,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18098,0,1584
+1680425881674,18098,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-237,,true,,818,513,35,35,null,18098,327,1584
+1680425881974,18167,Login,200,OK,Thread Group 1-143,text,true,,821,505,34,34,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18167,0,1545
+1680425881396,18167,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-143,,true,,821,505,34,34,null,18167,579,1545
+1680425881970,18241,Login,200,OK,Thread Group 1-216,text,true,,816,504,33,33,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18241,0,1548
+1680425881609,18241,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-216,,true,,816,504,33,33,null,18241,382,1548
+1680425881995,18248,Login,200,OK,Thread Group 1-71,text,true,,806,503,32,32,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18248,0,1539
+1680425881176,18248,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-71,,true,,806,503,32,32,null,18248,819,1539
+1680425881999,18282,Login,200,OK,Thread Group 1-140,text,true,,814,510,31,31,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18282,0,1519
+1680425881384,18282,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-140,,true,,814,510,31,31,null,18282,615,1519
+1680425882002,18326,Login,200,OK,Thread Group 1-149,text,true,,811,508,30,30,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18326,0,1591
+1680425881412,18326,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-149,,true,,811,508,30,30,null,18326,590,1591
+1680425882004,18362,Login,200,OK,Thread Group 1-275,text,true,,826,512,29,29,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18362,0,1547
+1680425881788,18362,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-275,,true,,826,512,29,29,null,18362,216,1547
+1680425881970,18437,Login,200,OK,Thread Group 1-248,text,true,,823,511,28,28,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18437,0,1606
+1680425881708,18437,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-248,,true,,823,511,28,28,null,18437,263,1606
+1680425881975,18471,Login,200,OK,Thread Group 1-116,text,true,,815,502,27,27,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18471,0,1576
+1680425881310,18471,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-116,,true,,815,502,27,27,null,18471,665,1576
+1680425881994,18493,Login,200,OK,Thread Group 1-133,text,true,,818,504,26,26,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18493,0,1633
+1680425881363,18493,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-133,,true,,818,504,26,26,null,18493,631,1633
+1680425882005,18522,Login,200,OK,Thread Group 1-104,text,true,,820,507,25,25,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18522,0,1621
+1680425881274,18522,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-104,,true,,820,507,25,25,null,18522,731,1621
+1680425881986,18585,Login,200,OK,Thread Group 1-262,text,true,,820,512,24,24,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18585,0,1611
+1680425881754,18585,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-262,,true,,820,512,24,24,null,18585,232,1611
+1680425882004,18608,Login,200,OK,Thread Group 1-12,text,true,,816,508,23,23,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18608,0,1642
+1680425880999,18608,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-12,,true,,816,508,23,23,null,18608,1005,1642
+1680425881988,18664,Login,200,OK,Thread Group 1-97,text,true,,812,509,22,22,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18664,0,1660
+1680425881260,18664,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-97,,true,,812,509,22,22,null,18664,729,1660
+1680425881976,18756,Login,200,OK,Thread Group 1-205,text,true,,819,511,21,21,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18756,0,1672
+1680425881985,18745,Login,200,OK,Thread Group 1-11,text,true,,821,509,21,21,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18745,0,1662
+1680425880996,18745,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-11,,true,,821,509,21,21,null,18745,1004,1662
+1680425881584,18756,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-205,,true,,819,511,21,21,null,18756,405,1672
+1680425881984,18788,Login,200,OK,Thread Group 1-41,text,true,,825,509,19,19,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18788,0,1740
+1680425881086,18788,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-41,,true,,825,509,19,19,null,18788,898,1740
+1680425881999,18814,Login,200,OK,Thread Group 1-112,text,true,,804,505,18,18,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18814,0,1691
+1680425881297,18814,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-112,,true,,804,505,18,18,null,18814,703,1691
+1680425881994,18858,Login,200,OK,Thread Group 1-42,text,true,,813,509,17,17,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18858,0,1717
+1680425881087,18858,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-42,,true,,813,509,17,17,null,18858,907,1717
+1680425881998,18900,Login,200,OK,Thread Group 1-238,text,true,,818,504,16,16,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18900,0,1728
+1680425881678,18900,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-238,,true,,818,504,16,16,null,18900,320,1728
+1680425881996,18954,Login,200,OK,Thread Group 1-103,text,true,,814,509,15,15,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,18954,0,1728
+1680425881271,18954,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-103,,true,,814,509,15,15,null,18954,725,1728
+1680425881985,19000,Login,200,OK,Thread Group 1-32,text,true,,807,507,14,14,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,19000,0,1727
+1680425881057,19000,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-32,,true,,807,507,14,14,null,19000,929,1727
+1680425882005,19015,Login,200,OK,Thread Group 1-217,text,true,,814,504,13,13,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,19015,0,1721
+1680425881617,19015,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-217,,true,,814,504,13,13,null,19015,388,1721
+1680425881984,19115,Login,200,OK,Thread Group 1-101,text,true,,815,509,12,12,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,19115,0,1743
+1680425881270,19115,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-101,,true,,815,509,12,12,null,19115,714,1743
+1680425882001,19102,Login,200,OK,Thread Group 1-264,text,true,,816,506,11,11,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,19102,0,1792
+1680425881754,19102,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-264,,true,,816,506,11,11,null,19102,247,1792
+1680425882003,19142,Login,200,OK,Thread Group 1-100,text,true,,819,511,10,10,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,19142,0,1790
+1680425881264,19142,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-100,,true,,819,511,10,10,null,19142,740,1790
+1680425881977,19208,Login,200,OK,Thread Group 1-221,text,true,,815,506,9,9,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,19208,0,1847
+1680425881633,19208,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-221,,true,,815,506,9,9,null,19208,344,1847
+1680425881996,19229,Login,200,OK,Thread Group 1-174,text,true,,814,508,8,8,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,19229,0,1797
+1680425881488,19229,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-174,,true,,814,508,8,8,null,19229,508,1797
+1680425881969,19298,Login,200,OK,Thread Group 1-244,text,true,,810,506,7,7,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,19298,0,1824
+1680425881695,19298,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-244,,true,,810,506,7,7,null,19298,274,1824
+1680425882005,19306,Login,200,OK,Thread Group 1-17,text,true,,811,505,6,6,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,19306,0,1820
+1680425881014,19306,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-17,,true,,811,505,6,6,null,19306,991,1820
+1680425881999,19349,Login,200,OK,Thread Group 1-220,text,true,,816,509,5,5,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,19349,0,2089
+1680425881624,19349,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-220,,true,,816,509,5,5,null,19349,375,2089
+1680425881982,19406,Login,200,OK,Thread Group 1-81,text,true,,813,508,4,4,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,19406,0,2145
+1680425881208,19406,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-81,,true,,813,508,4,4,null,19406,775,2145
+1680425882010,19420,Login,200,OK,Thread Group 1-249,text,true,,812,505,3,3,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,19420,0,2115
+1680425881714,19420,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-249,,true,,812,505,3,3,null,19420,296,2115
+1680425881994,19518,Login,200,OK,Thread Group 1-206,text,true,,818,513,2,2,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,19518,0,2051
+1680425881584,19518,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-206,,true,,818,513,2,2,null,19518,410,2051
+1680425881979,19533,Login,200,OK,Thread Group 1-176,text,true,,815,511,2,2,https://api.test-applicant.talent-troop.com/api/public/applicant-signin,19533,0,2145
+1680425881490,19533,Test Fragment,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-176,,true,,815,511,2,2,null,19533,489,2145
